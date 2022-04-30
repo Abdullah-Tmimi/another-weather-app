@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/another-weather-app/static/css/main.bec5c88f.css",
-    "main.js": "/another-weather-app/static/js/main.01f7f7ad.js",
+    "main.css": "/another-weather-app/static/css/main.4722f762.css",
+    "main.js": "/another-weather-app/static/js/main.2fbee9d7.js",
     "static/js/787.7b74aad4.chunk.js": "/another-weather-app/static/js/787.7b74aad4.chunk.js",
     "static/media/sultan-font.ttf": "/another-weather-app/static/media/sultan-font.656c9579e79cc7078f49.ttf",
     "static/media/TTF": "/another-weather-app/static/media/bcb2abf0980ed4ef.d45058ba1cc1f007a82c.TTF",
@@ -9,12 +9,12 @@
     "static/media/time-day.png": "/another-weather-app/static/media/time-day.2725fa09422e89db5166.png",
     "static/media/search-icon.svg": "/another-weather-app/static/media/search-icon.593b5f02df49d59584e315a71e4b35f2.svg",
     "index.html": "/another-weather-app/index.html",
-    "main.bec5c88f.css.map": "/another-weather-app/static/css/main.bec5c88f.css.map",
-    "main.01f7f7ad.js.map": "/another-weather-app/static/js/main.01f7f7ad.js.map",
+    "main.4722f762.css.map": "/another-weather-app/static/css/main.4722f762.css.map",
+    "main.2fbee9d7.js.map": "/another-weather-app/static/js/main.2fbee9d7.js.map",
     "787.7b74aad4.chunk.js.map": "/another-weather-app/static/js/787.7b74aad4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bec5c88f.css",
-    "static/js/main.01f7f7ad.js"
+    "static/css/main.4722f762.css",
+    "static/js/main.2fbee9d7.js"
   ]
 }
