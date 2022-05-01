@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/another-weather-app/static/css/main.a26ee607.css",
-    "main.js": "/another-weather-app/static/js/main.7302fedc.js",
+    "main.css": "/another-weather-app/static/css/main.ee4edd23.css",
+    "main.js": "/another-weather-app/static/js/main.19bf368c.js",
     "static/js/787.7b74aad4.chunk.js": "/another-weather-app/static/js/787.7b74aad4.chunk.js",
     "static/media/sultan-font.ttf": "/another-weather-app/static/media/sultan-font.656c9579e79cc7078f49.ttf",
     "static/media/TTF": "/another-weather-app/static/media/bcb2abf0980ed4ef.d45058ba1cc1f007a82c.TTF",
-    "static/media/logo.png": "/another-weather-app/static/media/logo.710b90d65c3961c65494.png",
+    "static/media/logo.png": "/another-weather-app/static/media/logo.d48ce9615be9308fbcce.png",
     "static/media/time-dark.png": "/another-weather-app/static/media/time-dark.7b2d0668481b3b68dff5.png",
     "static/media/time-day.png": "/another-weather-app/static/media/time-day.2725fa09422e89db5166.png",
     "static/media/search-icon.svg": "/another-weather-app/static/media/search-icon.593b5f02df49d59584e315a71e4b35f2.svg",
     "index.html": "/another-weather-app/index.html",
-    "main.a26ee607.css.map": "/another-weather-app/static/css/main.a26ee607.css.map",
-    "main.7302fedc.js.map": "/another-weather-app/static/js/main.7302fedc.js.map",
+    "main.ee4edd23.css.map": "/another-weather-app/static/css/main.ee4edd23.css.map",
+    "main.19bf368c.js.map": "/another-weather-app/static/js/main.19bf368c.js.map",
     "787.7b74aad4.chunk.js.map": "/another-weather-app/static/js/787.7b74aad4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a26ee607.css",
-    "static/js/main.7302fedc.js"
+    "static/css/main.ee4edd23.css",
+    "static/js/main.19bf368c.js"
   ]
 }
